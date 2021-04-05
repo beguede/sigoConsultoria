@@ -1514,7 +1514,8 @@
       },
       "ConsultoriasService.Domain/1.0.0": {
         "dependencies": {
-          "ConsultoriasService.Domain.Core": "1.0.0"
+          "ConsultoriasService.Domain.Core": "1.0.0",
+          "Refit": "5.2.4"
         },
         "runtime": {
           "ConsultoriasService.Domain.dll": {}

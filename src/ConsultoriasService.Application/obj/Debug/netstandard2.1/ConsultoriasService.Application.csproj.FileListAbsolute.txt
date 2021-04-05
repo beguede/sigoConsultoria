@@ -14,3 +14,4 @@ C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Application\obj\Debug\netstandard2.1\ConsultoriasService.Application.dll
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Application\obj\Debug\netstandard2.1\ConsultoriasService.Application.xml
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Application\obj\Debug\netstandard2.1\ConsultoriasService.Application.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Application\obj\Debug\netstandard2.1\RefitStubs.g.cs

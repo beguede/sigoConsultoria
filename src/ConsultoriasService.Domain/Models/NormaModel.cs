@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsultoriasService.Infrastructure.Models
+namespace ConsultoriasService.Domain.Models
 {
     public class NormaModel
     {

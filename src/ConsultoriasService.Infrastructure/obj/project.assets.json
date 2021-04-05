@@ -2039,7 +2039,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "ConsultoriasService.Domain.Core": "1.0.0"
+          "ConsultoriasService.Domain.Core": "1.0.0",
+          "Refit": "5.2.4"
         },
         "compile": {
           "bin/placeholder/ConsultoriasService.Domain.dll": {}

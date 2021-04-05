@@ -9,7 +9,6 @@ using Serilog;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ConsultoriasService.Infrastructure.Requests;
 
 namespace ConsultoriasService.Api.Controllers
 {
@@ -20,15 +19,11 @@ namespace ConsultoriasService.Api.Controllers
     {
         private readonly IMapper _mapper;
         private readonly IConsultoriaApplication _consultoriaApplication;
-        private readonly IRefitNormas _refitNormas;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public ConsultoriaController(IMapper mapper, IConsultoriaApplication consultoriaApplication, IRefitNormas refitNormas, IHttpContextAccessor httpContextAccessor)
+        public ConsultoriaController(IMapper mapper, IConsultoriaApplication consultoriaApplication)
         {
             _mapper = mapper;
             _consultoriaApplication = consultoriaApplication;
-            _refitNormas = refitNormas;
-            _httpContextAccessor = httpContextAccessor;
         }
 
         [HttpGet]
@@ -69,9 +64,6 @@ namespace ConsultoriasService.Api.Controllers
         {
             try
             {
-                var accessToken = _httpContextAccessor.HttpContext.Request.Headers["Authorization"];
-                var norma = await _refitNormas.ObterNormaPorIdAsync(accessToken, consultoriaModel.NormaId);
-
                 var result = await _consultoriaApplication.Incluir(consultoriaModel);
 
                 if (result.Success)

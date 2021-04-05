@@ -24,8 +24,8 @@ using System;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using ConsultoriasService.Infrastructure.Requests;
 using Refit;
+using ConsultoriasService.Domain.Requests;
 
 namespace ConsultoriasService.Api
 {
@@ -119,8 +119,8 @@ namespace ConsultoriasService.Api
             services.AddRefitClient<IRefitNormas>()
                .ConfigureHttpClient(c =>
                {
-                   //c.BaseAddress = new Uri("http://andremagalhaes-001-site9.etempurl.com/api");
-                   c.BaseAddress = new Uri("https://localhost:5001/api");                   
+                   c.BaseAddress = new Uri("http://andremagalhaes-001-site9.etempurl.com/api");
+                   //c.BaseAddress = new Uri("https://localhost:5001/api");                   
                    //c.DefaultRequestHeaders.Add("Authorization", httpContext.Request.Headers[HeaderNames.Authorization]);
                });
 
