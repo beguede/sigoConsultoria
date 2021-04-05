@@ -6,3 +6,4 @@ C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain.Core\obj\Debug\netstandard2.1\ConsultoriasService.Domain.Core.csproj.CoreCompileInputs.cache
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain.Core\obj\Debug\netstandard2.1\ConsultoriasService.Domain.Core.dll
 C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain.Core\obj\Debug\netstandard2.1\ConsultoriasService.Domain.Core.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain.Core\obj\Debug\netstandard2.1\ConsultoriasService.Domain.Core.csprojAssemblyReference.cache
