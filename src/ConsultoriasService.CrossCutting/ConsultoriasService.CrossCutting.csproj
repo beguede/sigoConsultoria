@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsultoriasService.Application\ConsultoriasService.Application.csproj" />
+    <ProjectReference Include="..\ConsultoriasService.Domain\ConsultoriasService.Domain.csproj" />
+    <ProjectReference Include="..\ConsultoriasService.Infrastructure\ConsultoriasService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

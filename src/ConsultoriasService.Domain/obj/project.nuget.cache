@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RtBl/moK9KLYQOCuYF9DOmmlFJwm4bL+8C1MKPp3FpzGX8gt8+6wz3HhUdoT9op5UhCLxIOzhvpXJc6kgE6cAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\132488\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Application\\ConsultoriasService.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Application\\ConsultoriasService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Application\\ConsultoriasService.Application.csproj",
+        "projectName": "ConsultoriasService.Application",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Application\\ConsultoriasService.Application.csproj",
+        "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj": {
+                "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\ConsultoriasService.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\ConsultoriasService.Domain.Core.csproj",
+        "projectName": "ConsultoriasService.Domain.Core",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\ConsultoriasService.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj",
+        "projectName": "ConsultoriasService.Domain",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\ConsultoriasService.Domain.csproj",
+        "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\ConsultoriasService.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\ConsultoriasService\\src\\ConsultoriasService.Domain.Core\\ConsultoriasService.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

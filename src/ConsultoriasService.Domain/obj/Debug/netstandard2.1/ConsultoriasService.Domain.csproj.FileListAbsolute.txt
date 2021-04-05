@@ -1,0 +1,12 @@
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\bin\Debug\netstandard2.1\ConsultoriasService.Domain.deps.json
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\bin\Debug\netstandard2.1\ConsultoriasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\bin\Debug\netstandard2.1\ConsultoriasService.Domain.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\bin\Debug\netstandard2.1\ConsultoriasService.Domain.Core.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\bin\Debug\netstandard2.1\ConsultoriasService.Domain.Core.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.csprojAssemblyReference.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.AssemblyInfoInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.AssemblyInfo.cs
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.csproj.CopyComplete
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\ConsultoriasService\src\ConsultoriasService.Domain\obj\Debug\netstandard2.1\ConsultoriasService.Domain.pdb
