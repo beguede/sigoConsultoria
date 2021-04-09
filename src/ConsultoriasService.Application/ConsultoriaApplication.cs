@@ -95,9 +95,9 @@ namespace ConsultoriasService.Application
             if (normaResult.IsSuccessStatusCode)
             {
                 var response = await normaResult.Content.ReadAsStringAsync();
-                var normalModel = JsonConvert.DeserializeObject<NormaModel>(response);
+                var normaModel = JsonConvert.DeserializeObject<NormaModel>(response);
 
-                if (normalModel is null)
+                if (normaModel is null)
                 {
                     return new List<Notification> { new Notification("NormaId", "Id da norma inexistente.") };
                 }
