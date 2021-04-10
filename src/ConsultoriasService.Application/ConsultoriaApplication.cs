@@ -110,7 +110,7 @@ namespace ConsultoriasService.Application
             {
                 return new List<Notification> { new Notification("NormaId", "Validar id da norma.") };
             }
-            return null;
+            return new List<Notification>();
         }
 
         private async Task<IList<Notification>> ValidaEmpresa(Guid empresaId)
@@ -118,7 +118,7 @@ namespace ConsultoriasService.Application
             var empresa = await _empresaRepository.ObterPorId(empresaId);
             if (empresa is null)
                 return new List<Notification> { new Notification("EmpresaId", "Id da empresa inexistente.") };
-            return null;
+            return new List<Notification>();
         }
     }
 }
